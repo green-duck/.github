@@ -1,12 +1,13 @@
-## Hi there 👋
+# GreenDuckStudio - Coder
 
-<!--
+Diese Organisation gehört dem YouTuber [GreenDuckStudio](https://youtube.com/@greenduckstudio) und hier findet man (fast) alle Coding-Projekte für GreenDuck. 
 
-**Here are some ideas to get you started:**
+Aktuelle Projekte: 
+- GreenDuckStudio Website
+- GreenHelper
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## GreenDuckStudio Website
+Im moment wird an der GreenDuck Website gearbeitet. 
+
+## GreenHelper
+GreenHelper ist ein Custom Discord Bot, um die Moderation des Discord Servers zu vereinfachen.
